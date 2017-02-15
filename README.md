@@ -1,3 +1,3 @@
 # rjfs.scheduler
 
-## v0.0.2 update test
+## v0.0.3 bug fixes
