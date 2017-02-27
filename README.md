@@ -1,5 +1,8 @@
 # rjfs.scheduler
 
+## v0.0.6
+### fixing deleted meetings pusher
+
 ## v0.0.5
 ### user filter, pusher fixes, month labels
 
