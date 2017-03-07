@@ -1,5 +1,8 @@
 # rjfs.scheduler
 
+## v0.0.7
+### ews brute force refresh
+
 ## v0.0.6
 ### fixing deleted meetings pusher
 
