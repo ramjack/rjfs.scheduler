@@ -1,7 +1,7 @@
 # rjfs.scheduler
 
-##0.0.8
-###pusher updates for companies and users,
+## v0.0.8
+### pusher updates for companies and users,
 
 ## v0.0.7
 ### ews brute force refresh
