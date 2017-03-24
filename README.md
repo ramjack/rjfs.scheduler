@@ -1,5 +1,8 @@
 # rjfs.scheduler
 
+## v.0.0.9
+### papertrail logging, bug fixes, dev mode
+
 ## v0.0.8
 ### pusher updates for companies and users,
 
