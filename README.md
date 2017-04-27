@@ -1,5 +1,8 @@
 # rjfs.scheduler
 
+## v0.0.11
+### desync styles for more obvious showing of appointments that are not linked correctly
+
 ## v0.0.10
 ### reload from settings streched out events bug fix, adding rjfs number to the subject of CRM events, all day events now show all day in event block instead of 12:00 AM
 
