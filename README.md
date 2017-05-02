@@ -1,5 +1,8 @@
 # rjfs.scheduler
 
+## v0.0.12
+### desync styles weren't applying unless user meta existed. fixed adding desync no matter what
+
 ## v0.0.11
 ### desync styles for more obvious showing of appointments that are not linked correctly
 
