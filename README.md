@@ -1,5 +1,8 @@
 # rjfs.scheduler
 
+## v0.0.13
+### fixing end of range events -- events on the final saturday that we display were not showing correctly for PDT due to UTC conversions putting the end date out of the range. --
+
 ## v0.0.12
 ### desync styles weren't applying unless user meta existed. fixed adding desync no matter what
 
