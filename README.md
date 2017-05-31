@@ -1,5 +1,8 @@
 # rjfs.scheduler
 
+## v0.0.15
+### bug fixes with range changes
+
 ## v0.0.14
 ### fixing ews events with end dates outside of scope
 
