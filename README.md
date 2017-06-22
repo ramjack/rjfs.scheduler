@@ -1,5 +1,8 @@
 # rjfs.scheduler
 
+## v.0.0.16
+### adding holidays that pull from google calendars api
+
 ## v0.0.15
 ### bug fixes with range changes
 
