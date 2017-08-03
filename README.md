@@ -1,5 +1,8 @@
 # rjfs.scheduler
 
+## v.0.0.17
+### adding end times to event subjects
+
 ## v.0.0.16
 ### adding holidays that pull from google calendars api
 
