@@ -1,5 +1,8 @@
 # rjfs.scheduler
 
+## v.0.0.18
+### editing classes for meetings that come from outlook for quick differentiating
+
 ## v.0.0.17
 ### adding end times to event subjects
 
