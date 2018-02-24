@@ -1,5 +1,8 @@
 # rjfs.scheduler
 
+## v.0.0.19
+### fixing a february bug that disabled the ability to change months.
+
 ## v.0.0.18
 ### editing classes for meetings that come from outlook for quick differentiating
 
