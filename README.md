@@ -1,5 +1,8 @@
 # rjfs.scheduler
 
+## v.0.0.20
+### reverting 0.0.19 to see if it fixes the users getting cleared out bug
+
 ## v.0.0.19
 ### fixing a february bug that disabled the ability to change months.
 
