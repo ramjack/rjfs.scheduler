@@ -1,5 +1,11 @@
 # rjfs.scheduler
 
+## v.0.0.22
+### updating static map calls to the google api to include the api key. This fixed broken map images on CalendarPopover.
+
+## v.0.0.21
+### rebuilt project dependencies and reverted to v0.0.18 fixed existing bugs
+
 ## v.0.0.20
 ### reverting 0.0.19 to see if it fixes the users getting cleared out bug
 
